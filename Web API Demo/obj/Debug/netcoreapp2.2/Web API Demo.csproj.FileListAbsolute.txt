@@ -1,0 +1,14 @@
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\bin\Debug\netcoreapp2.2\Web API Demo.deps.json
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\bin\Debug\netcoreapp2.2\Web API Demo.runtimeconfig.json
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\bin\Debug\netcoreapp2.2\Web API Demo.runtimeconfig.dev.json
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\bin\Debug\netcoreapp2.2\Web API Demo.dll
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\obj\Debug\netcoreapp2.2\Web API Demo.csprojAssemblyReference.cache
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\obj\Debug\netcoreapp2.2\Web API Demo.csproj.CoreCompileInputs.cache
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\obj\Debug\netcoreapp2.2\Web API Demo.RazorAssemblyInfo.cache
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\obj\Debug\netcoreapp2.2\Web API Demo.RazorAssemblyInfo.cs
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\obj\Debug\netcoreapp2.2\Web API Demo.AssemblyInfoInputs.cache
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\obj\Debug\netcoreapp2.2\Web API Demo.AssemblyInfo.cs
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\obj\Debug\netcoreapp2.2\Web API Demo.RazorTargetAssemblyInfo.cache
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\bin\Debug\netcoreapp2.2\Web API Demo.pdb
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\obj\Debug\netcoreapp2.2\Web API Demo.dll
+C:\Users\Brethil\source\repos\Web API Demo\Web API Demo\obj\Debug\netcoreapp2.2\Web API Demo.pdb
